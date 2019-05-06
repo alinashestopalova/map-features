@@ -1,0 +1,6 @@
+.SideBar{
+    overflow-y: scroll;
+    height: 800px;
+    padding: 0;
+    text-align: left;
+}
